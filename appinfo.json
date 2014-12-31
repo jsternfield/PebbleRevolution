@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jsternfield@hotmail.com",
+    "longName": "RevolutionText",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "RevolutionText",
+    "uuid": "1d640d90-f641-46f6-8a98-e5fd932d24f6",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
